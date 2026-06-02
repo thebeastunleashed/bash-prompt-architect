@@ -1,0 +1,5 @@
+{
+  "name": "Bash Prompt Architect",
+  "description": "A visual Bash PS1 prompt generator and previewer with drag-and-drop building and prefilled options.",
+  "requestFramePermissions": []
+}
